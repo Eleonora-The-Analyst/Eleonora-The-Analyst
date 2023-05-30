@@ -39,6 +39,7 @@ _Проект 3: Анализ маркетингового АБ Теста в к
 1. Проанализировать АБ-Тест, проведенный во всех городах, где тестовой группе вместо смс-сообщение приходит пуш-уведомления с таким же содержанием и визуализировать результаты
 2. Сделать выводы и сформулировать рекомендации для дальнейших запусков АБ Теста
 
+<a href="https://github.com/Eleonora-The-Analyst/Eleonora-The-Analyst/blob/main/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC_SkyLenta.ipynb">Ссылка на проект</a>
 
 <!--
 **Eleonora-The-Analyst/Eleonora-The-Analyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
