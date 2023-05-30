@@ -25,6 +25,8 @@ _Проект 1: Калькулятор юнит-экономики онлайн
 
 <a href="https://docs.google.com/spreadsheets/d/1-Ru4XVnv6iOB0xWDqlNrxZFW-deRxOoS/edit?usp=drive_link&ouid=112395647801805542631&rtpof=true&sd=true">Ссылка на проект</a>
 
+<a href="https://docs.google.com/presentation/d/1DmzfwgKEvRG-fEeaSzi2I-dnfsHi1Ptq/edit?usp=drive_link&ouid=112395647801805542631&rtpof=true&sd=true">Ссылка на презентацию</a>
+
 _Проект 2: Когортный анализ онлайн-кинотеатра с помощью SQL_
 
 Что нужно было сделать:
